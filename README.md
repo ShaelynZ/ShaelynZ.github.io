@@ -1,1 +1,1 @@
-# ShaelynZ.github.io
+This is the source code to Shuling Zhao's website, adapted from Jon Barron's public academic website: https://jonbarron.info/.
